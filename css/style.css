@@ -30,7 +30,7 @@ li{
 }
 
 a{
-    color: white;
+    color: #fef2ef;
     text-decoration: none;
 }
 
@@ -50,7 +50,9 @@ a{
 }
 
 .nav-branding{
-    max-width: 100px;
+    height: 2rem;
+    color: #fef2ef;
+    
     
 }
 
