@@ -118,7 +118,8 @@ a{
     flex: 1;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: URL("/images/bluecafeplants.jpg");
+    background-image: url("/images/bluecafeplants.jpg");
+    display: block
     justify-content: center;
     align-items: center;
     text-align: center;
